@@ -1,0 +1,7 @@
+Green - #66cc99
+
+Orange - #ff652f
+
+Blue - #5da2d5
+
+White - #FFFFFF
