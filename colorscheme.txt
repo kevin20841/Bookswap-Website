@@ -1,5 +1,5 @@
-Green - #66cc99
-
+Light Green - #66cc99
+Dark Green - #005A31
 Orange - #ff652f
 
 Blue - #5da2d5
